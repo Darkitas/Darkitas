@@ -1,18 +1,14 @@
-# 👋 Hola, soy Santiago Tuberquia
+# 👋 Que se dice! Soy Santiago, mas conocido en el mundo de la tecnologia como Darkitas
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/piTGlcfPrdfkeDq8i8/giphy.gif" width="500">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Darkitas&color=blueviolet&style=for-the-badge"/>
-</p>
+---
 
 💻 Ingeniero de Sistemas | Desarrollador de software  
 🚀 Backend • Cloud • Automatización  
 📍 Medellín, Colombia  
-
-Actualmente estoy fortaleciendo mis habilidades en **.NET, C#, Docker y análisis de datos**, desarrollando proyectos prácticos y mejorando continuamente mi perfil profesional.
 
 ---
 
@@ -56,22 +52,6 @@ Actualmente estoy fortaleciendo mis habilidades en **.NET, C#, Docker y análisi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
-
----
-
-# 📌 Proyectos Destacados
-
-### 🌦 Weather App
-Aplicación desarrollada en **Flutter** que consume una API de clima para mostrar información meteorológica en tiempo real.
-
-### 🌌 Space Face
-Proyecto de red social desarrollado con **Angular CLI** enfocado en aprendizaje de frontend.
-
-### ⚙️ Despliegue CI/CD
-Implementación de **pipelines automatizados** para integración y despliegue continuo.
-
-### 🎨 Generador de Colores
-Proyecto en **Dart** para generar combinaciones de colores dinámicas.
 
 ---
 
