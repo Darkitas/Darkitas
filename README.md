@@ -61,10 +61,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkitas&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Darkitas&theme=tokyonight"/>
-</p>
-
 ---
 
 # 🎯 Actualmente aprendiendo
