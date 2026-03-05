@@ -1,7 +1,7 @@
-# 👋 Que se dice! Soy Santiago, mas conocido en el mundo de la tecnologia como Darkitas
+# 👋 Que se dice! Soy Santiago, conocido en el mundo de la tecnologia como Darkitas
 
 <p align="center">
-  <img src="https://media.giphy.com/media/piTGlcfPrdfkeDq8i8/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/piTGlcfPrdfkeDq8i8/giphy.gif" width="400">
 </p>
 
 ---
@@ -86,6 +86,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Tuberquia-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santiago-tuberquia-correa-32616b246/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Darkitas-181717?style=for-the-badge&logo=github)](https://github.com/Darkitas)
+
+[![Instagram]()]
 
 ---
 
