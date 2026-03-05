@@ -1,16 +1,112 @@
-## Hi there 👋
+# 👋 Hola, soy Santiago Tuberquia
 
-<!--
-**Darkitas/Darkitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darkitas&color=blueviolet&style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Ingeniero de Sistemas | Desarrollador de software  
+🚀 Backend • Cloud • Automatización  
+📍 Medellín, Colombia  
+
+Actualmente estoy fortaleciendo mis habilidades en **.NET, C#, Docker y análisis de datos**, desarrollando proyectos prácticos y mejorando continuamente mi perfil profesional.
+
+---
+
+# 🚀 Sobre mí
+
+- 🔧 Desarrollador **Fullstack en formación**
+- 🐳 Aprendiendo **Docker y despliegue de APIs**
+- ☁️ Explorando **Cloud y CI/CD**
+- 📊 Experiencia en **Machine Learning y análisis predictivo**
+- 🧠 Interesado en **arquitectura de software y buenas prácticas**
+
+---
+
+# 🛠️ Tecnologías
+
+### Lenguajes
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Backend
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Data
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-yellow?style=for-the-badge)
+
+### Otros
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+# 📌 Proyectos Destacados
+
+### 🌦 Weather App
+Aplicación desarrollada en **Flutter** que consume una API de clima para mostrar información meteorológica en tiempo real.
+
+### 🌌 Space Face
+Proyecto de red social desarrollado con **Angular CLI** enfocado en aprendizaje de frontend.
+
+### ⚙️ Despliegue CI/CD
+Implementación de **pipelines automatizados** para integración y despliegue continuo.
+
+### 🎨 Generador de Colores
+Proyecto en **Dart** para generar combinaciones de colores dinámicas.
+
+---
+
+# 📊 Estadísticas de GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Darkitas&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkitas&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Darkitas&theme=tokyonight"/>
+</p>
+
+---
+
+# 🎯 Actualmente aprendiendo
+
+- Arquitectura de APIs
+- Contenedores con Docker
+- Buenas prácticas en backend
+- Cloud deployment
+- Arquitectura hexagonal
+
+---
+
+# 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Tuberquia-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santiago-tuberquia-correa-32616b246/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Darkitas-181717?style=for-the-badge&logo=github)](https://github.com/Darkitas)
+
+---
+
+⭐ Siempre estoy abierto a aprender, colaborar en proyectos y seguir creciendo como desarrollador.
